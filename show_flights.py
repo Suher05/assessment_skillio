@@ -52,3 +52,4 @@ def show_flights():
             cursor.close()
         if connection:
             connection.close()
+# Teständring för Git push
